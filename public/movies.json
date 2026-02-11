@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "description": "Un hombre injustamente encarcelado encuentra esperanza en prisión.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "description": "La poderosa familia Corleone domina el crimen organizado.",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Titanic",
+    "description": "Un romance florece a bordo del trágico transatlántico.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "description": "Batman enfrenta al Joker en Gotham.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "description": "Un hombre sencillo vive momentos históricos inolvidables.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "Inception",
+    "description": "Un ladrón invade sueños para implantar ideas.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "description": "Un hacker descubre la verdad sobre la realidad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "title": "Gladiator",
+    "description": "Un general romano busca venganza como gladiador.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "Interstellar",
+    "description": "Exploradores viajan por el espacio para salvar a la humanidad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "title": "The Green Mile",
+    "description": "Un guardia de prisión presencia hechos sobrenaturales.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "title": "Pulp Fiction",
+    "description": "Historias entrelazadas del mundo criminal en Los Ángeles.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "title": "Fight Club",
+    "description": "Un hombre crea un club secreto de peleas.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "Un hobbit inicia la misión de destruir un anillo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "La batalla por la Tierra Media continúa.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "La guerra final decide el destino del anillo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "title": "Star Wars: A New Hope",
+    "description": "Un joven granjero se une a la rebelión galáctica.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "title": "Star Wars: The Empire Strikes Back",
+    "description": "El Imperio contraataca a la rebelión.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 18,
+    "title": "The Lion King",
+    "description": "Un joven león reclama su lugar como rey.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 19,
+    "title": "Jurassic Park",
+    "description": "Un parque temático con dinosaurios se descontrola.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 20,
+    "title": "Avatar",
+    "description": "Un marine explora el mundo alienígena de Pandora.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 21,
+    "title": "The Avengers",
+    "description": "Héroes se unen para salvar al mundo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 22,
+    "title": "Avengers: Endgame",
+    "description": "Los héroes enfrentan a Thanos en la batalla final.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 23,
+    "title": "Iron Man",
+    "description": "Un millonario crea una armadura tecnológica.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 24,
+    "title": "Spider-Man",
+    "description": "Un adolescente obtiene poderes arácnidos.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 25,
+    "title": "The Silence of the Lambs",
+    "description": "Una agente busca la ayuda de un asesino brillante.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 26,
+    "title": "Se7en",
+    "description": "Detectives persiguen a un asesino serial.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 27,
+    "title": "The Prestige",
+    "description": "Dos magos compiten obsesivamente.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 28,
+    "title": "Whiplash",
+    "description": "Un joven baterista enfrenta a su exigente mentor.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 29,
+    "title": "The Departed",
+    "description": "Un policía infiltrado se enfrenta a la mafia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 30,
+    "title": "Django Unchained",
+    "description": "Un esclavo liberado busca rescatar a su esposa.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 31,
+    "title": "The Wolf of Wall Street",
+    "description": "La vida excesiva de un corredor de bolsa.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 32,
+    "title": "Parasite",
+    "description": "Una familia pobre se infiltra en una casa rica.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 33,
+    "title": "Joker",
+    "description": "El origen del icónico villano de Gotham.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 34,
+    "title": "Braveheart",
+    "description": "Un escocés lidera una rebelión por libertad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 35,
+    "title": "The Pianist",
+    "description": "Un músico sobrevive al Holocausto.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 36,
+    "title": "Saving Private Ryan",
+    "description": "Soldados buscan rescatar a un paracaidista.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 37,
+    "title": "Schindler's List",
+    "description": "Un empresario salva vidas durante la guerra.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 38,
+    "title": "The Social Network",
+    "description": "El nacimiento de Facebook.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 39,
+    "title": "La La Land",
+    "description": "Un romance entre sueños en Los Ángeles.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 40,
+    "title": "Pacific Rim",
+    "description": "En un futuro no muy lejano, gigantescos robots llamados Jaegers luchan contra monstruos colosales (Kaiju) para salvar a la humanidad.",
+    "image": "https://play-lh.googleusercontent.com/Y79rzkAvwYsPQNHlU5LnMN0btYweXsnEijjZH3OcECLB7T7VJ3WRtPMq9mIre4wt-63C",
+    "rating": 4.3
+  },
+  {
+    "id": 41,
+    "title": "Back to the Future",
+    "description": "Un adolescente viaja accidentalmente al pasado.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 42,
+    "title": "Alien",
+    "description": "Una tripulación enfrenta una criatura letal.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 43,
+    "title": "Terminator 2",
+    "description": "Un cyborg protege al futuro líder humano.",
+    "image": "https://pics.filmaffinity.com/Terminator_2_El_juicio_final-154873558-large.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 44,
+    "title": "Rocky",
+    "description": "Un boxeador humilde tiene su gran oportunidad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 45,
+    "title": "Raging Bull",
+    "description": "La vida turbulenta de un boxeador.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 46,
+    "title": "Toy Story",
+    "description": "Juguetes cobran vida cuando nadie los ve.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 40,
+    "title": "The Truman Show",
+    "description": "Un hombre descubre que su vida es un programa.",
+    "image": "https://www.originalfilmart.com/cdn/shop/files/truman_show_1998_original_film_art_76a66942-0f82-4533-8165-156ea9a1d5bb_5000x.jpg?v=1709162543",
+    "rating": 4.1
+  },
+  {
+    "id": 48,
+    "title": "Up",
+    "description": "Un anciano vuela su casa con globos.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_up_19753_e6f911e3.jpeg?region=0%2C0%2C540%2C810",
+    "rating": 4.2
+  },
+  {
+    "id": 49,
+    "title": "Coco",
+    "description": "Un niño viaja al mundo de los muertos.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 50,
+    "title": "Inside Out",
+    "description": "Las emociones guían la vida de una niña.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 51,
+    "title": "Mad Max: Fury Road",
+    "description": "Una persecución épica en el desierto.",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 52,
+    "title": "Black Panther",
+    "description": "El rey de Wakanda protege su nación.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 53,
+    "title": "Doctor Strange",
+    "description": "Un cirujano aprende artes místicas.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 54,
+    "title": "The Batman",
+    "description": "Un joven Bruce Wayne combate el crimen.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 55,
+    "title": "Deadpool",
+    "description": "Un antihéroe sarcástico busca venganza.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 56,
+    "title": "Logan",
+    "description": "Un envejecido Wolverine protege a una niña.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 57,
+    "title": "The Hunger Games",
+    "description": "Una joven lucha en juegos mortales.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 58,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "Un niño descubre que es mago.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 59,
+    "title": "Harry Potter and the Deathly Hallows",
+    "description": "La batalla final contra Voldemort.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 60,
+    "title": "The Chronicles of Narnia",
+    "description": "Niños descubren un mundo mágico.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.5
+  },
+  {
+    "id": 61,
+    "title": "Frozen",
+    "description": "Dos hermanas enfrentan poderes helados.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 62,
+    "title": "Moana",
+    "description": "Una joven navega para salvar su isla.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 63,
+    "title": "Shrek",
+    "description": "Un ogro vive una aventura inesperada.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 64,
+    "title": "Despicable Me",
+    "description": "Un villano adopta a tres niñas.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 65,
+    "title": "Minions",
+    "description": "Los ayudantes amarillos buscan un jefe.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.2
+  },
+  {
+    "id": 66,
+    "title": "The Incredibles",
+    "description": "Una familia de superhéroes regresa a la acción.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 67,
+    "title": "Cars",
+    "description": "Un auto aprende sobre amistad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 68,
+    "title": "A Beautiful Mind",
+    "description": "La vida del matemático John Nash.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 69,
+    "title": "Good Will Hunting",
+    "description": "Un genio enfrenta su pasado.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 70,
+    "title": "The Revenant",
+    "description": "Un explorador sobrevive en la naturaleza.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 71,
+    "title": "1917",
+    "description": "Dos soldados cruzan territorio enemigo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 72,
+    "title": "The Hateful Eight",
+    "description": "Extraños se reúnen en una cabaña nevada.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 73,
+    "title": "Blade Runner 2049",
+    "description": "Un replicante descubre un secreto oculto.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 74,
+    "title": "The Grand Budapest Hotel",
+    "description": "Un conserje vive aventuras extravagantes.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 75,
+    "title": "No Country for Old Men",
+    "description": "Un hombre encuentra dinero y desata violencia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 76,
+    "title": "Get Out",
+    "description": "Una visita familiar se vuelve aterradora.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 77,
+    "title": "A Quiet Place",
+    "description": "Una familia vive en silencio para sobrevivir.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 78,
+    "title": "The Exorcist",
+    "description": "Una niña es poseída por una entidad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 79,
+    "title": "It",
+    "description": "Un grupo enfrenta a un payaso maligno.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 80,
+    "title": "Halloween",
+    "description": "Un asesino regresa a su ciudad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 81,
+    "title": "The Notebook",
+    "description": "Una historia de amor inolvidable.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 82,
+    "title": "Pride & Prejudice",
+    "description": "Romance y prejuicios en la Inglaterra clásica.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 83,
+    "title": "The Fault in Our Stars",
+    "description": "Dos jóvenes se enamoran enfrentando enfermedad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTVkMTFiZWItOTFkOC00YTc3LWFhYzQtZTg3NzAxZjJlNTAyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 84,
+    "title": "The Conjuring",
+    "description": "Investigadores paranormales enfrentan un caso oscuro.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 85,
+    "title": "Annabelle",
+    "description": "Una muñeca desata terror.",
+    "image": "https://play-lh.googleusercontent.com/31WrBGLE5f_G7nEnt0ZCe_jz4wJQdxQRy8Uedkbbp1rgWIjtYwViOP3moiNpZQgaG2rvHw=w240-h480-rw",
+    "rating": 2.7
+  },
+  {
+    "id": 86,
+    "title": "The Nun",
+    "description": "Un demonio acecha en un convento.",
+    "image": "https://i.ebayimg.com/images/g/PQIAAOSwc3RbJtFG/s-l1200.jpg",
+    "rating": 2.6
+  },
+  {
+    "id": 87,
+    "title": "Venom",
+    "description": "Un periodista se fusiona con un simbionte.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.3
+  },
+  {
+    "id": 88,
+    "title": "Aquaman",
+    "description": "El heredero de Atlantis reclama su trono.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.4
+  },
+  {
+    "id": 89,
+    "title": "Wonder Woman",
+    "description": "Una amazona lucha en la Primera Guerra Mundial.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 90,
+    "title": "The Flash",
+    "description": "Un héroe viaja a través del tiempo.",
+    "image": "https://static.posters.cz/image/1300/183190.jpg",
+    "rating": 3.4
+  },
+  {
+    "id": 91,
+    "title": "Mission: Impossible",
+    "description": "Un agente realiza misiones peligrosas.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 92,
+    "title": "Top Gun",
+    "description": "Pilotos compiten en la élite aérea.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.5
+  },
+  {
+    "id": 93,
+    "title": "Pirates of the Caribbean",
+    "description": "Piratas buscan tesoros malditos.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 94,
+    "title": "Transformers",
+    "description": "Robots alienígenas luchan en la Tierra.",
+    "image": "https://m.media-amazon.com/images/I/51m2UmuaxuL.jpg",
+    "rating": 3.5
+  },
+  {
+    "id": 95,
+    "title": "Fast & Furious",
+    "description": "Carreras ilegales y acción desenfrenada.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.2
+  },
+  {
+    "id": 96,
+    "title": "John Wick",
+    "description": "Un exasesino busca venganza implacable.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 97,
+    "title": "The Bourne Identity",
+    "description": "Un hombre amnésico descubre que es un agente.",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 98,
+    "title": "Casino Royale",
+    "description": "James Bond enfrenta una misión crucial.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 99,
+    "title": "The Hunger Games: Catching Fire",
+    "description": "Katniss regresa a la arena.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 100,
+    "title": "Dune",
+    "description": "Un joven noble enfrenta su destino en Arrakis.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  }
+]
