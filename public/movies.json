@@ -2,700 +2,700 @@
   {
     "id": 1,
     "title": "The Shawshank Redemption",
-    "description": "Un hombre injustamente encarcelado encuentra esperanza en prisión.",
+    "description": "Andy Dufresne, un banquero exitoso, es condenado injustamente a cadena perpetua por el asesinato de su esposa y el amante de esta. En la prisión de Shawshank, Andy forja una profunda amistad con Red, un prisionero que puede conseguir cualquier cosa. A lo largo de dos décadas, Andy mantiene viva su esperanza y planea meticulosamente su redención mientras transforma la vida de sus compañeros de prisión con su inteligencia, paciencia y determinación inquebrantable.",
     "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.7
   },
   {
     "id": 2,
     "title": "The Godfather",
-    "description": "La poderosa familia Corleone domina el crimen organizado.",
+    "description": "La saga de la familia Corleone bajo el patriarca Vito Corleone, uno de los jefes más poderosos del crimen organizado en Nueva York. Cuando un intento de asesinato deja a Vito gravemente herido, su hijo menor Michael, un veterano de guerra que había intentado mantenerse alejado del negocio familiar, se ve obligado a entrar en el mundo criminal para proteger a su familia. Lo que sigue es su transformación de un joven idealista a un despiadado líder mafioso.",
     "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.6
   },
   {
     "id": 3,
     "title": "Titanic",
-    "description": "Un romance florece a bordo del trágico transatlántico.",
+    "description": "En 1912, Rose DeWitt Bukater, una joven aristócrata comprometida con un rico heredero, aborda el lujoso transatlántico Titanic. Durante el viaje, conoce a Jack Dawson, un artista sin un centavo que ganó su boleto en una partida de póker. A pesar de sus diferentes clases sociales, Rose y Jack se enamoran apasionadamente. Su romance florece mientras el majestuoso barco navega hacia su trágico destino en las gélidas aguas del Atlántico Norte.",
     "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 4,
     "title": "The Dark Knight",
-    "description": "Batman enfrenta al Joker en Gotham.",
+    "description": "Batman, con la ayuda del teniente Jim Gordon y el fiscal de distrito Harvey Dent, continúa su guerra contra el crimen en Gotham City. Su eficacia ha reducido significativamente la actividad criminal, hasta que aparece un nuevo villano conocido como el Joker. Este anarquista criminal, obsesionado con el caos, desafía a Batman no solo físicamente sino moralmente, poniendo a prueba sus principios y obligándolo a tomar decisiones imposibles que determinarán el futuro de Gotham.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.5
   },
   {
     "id": 5,
     "title": "Forrest Gump",
-    "description": "Un hombre sencillo vive momentos históricos inolvidables.",
+    "description": "Forrest Gump, un hombre con un coeficiente intelectual de 75, narra su extraordinaria vida desde un banco en Savannah. A pesar de sus limitaciones, Forrest se convierte en testigo y participante de los eventos más significativos de la segunda mitad del siglo XX en Estados Unidos. Desde ser jugador estrella de fútbol americano hasta héroe de guerra en Vietnam, desde magnate empresarial hasta corredor inspiracional, Forrest vive una vida increíble mientras mantiene su amor puro por Jenny, su amiga de la infancia.",
     "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.4
   },
   {
     "id": 6,
     "title": "Inception",
-    "description": "Un ladrón invade sueños para implantar ideas.",
+    "description": "Dom Cobb es un ladrón experto en el arte de la extracción: robar secretos del subconsciente durante el estado de sueño. Su habilidad lo ha convertido en un activo valioso pero también lo ha costado todo lo que ama. Cobb tiene la oportunidad de redimirse cuando le ofrecen una última misión imposible: en lugar de robar una idea, debe plantarla en la mente de alguien. Si tiene éxito, será el crimen perfecto, pero un enemigo anticipando cada movimiento amenaza con sabotear la misión.",
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.4
   },
   {
     "id": 7,
     "title": "The Matrix",
-    "description": "Un hacker descubre la verdad sobre la realidad.",
+    "description": "Thomas Anderson lleva una doble vida: de día es programador en una corporación, de noche es Neo, un hacker de computadoras. Su mundo se desmorona cuando es contactado por el misterioso Morpheus, quien le revela una verdad impactante: la realidad que conoce es una simulación creada por máquinas para esclavizar a la humanidad. Neo debe elegir entre la comodidad de la ignorancia o la dura verdad de la realidad. Su elección lo llevará a descubrir que es parte de una profecía que podría cambiar el destino de la humanidad.",
     "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 8,
     "title": "Gladiator",
-    "description": "Un general romano busca venganza como gladiador.",
+    "description": "Máximo Décimo Meridio es el general más leal del Imperio Romano y la mano derecha del emperador Marco Aurelio. Cuando el corrupto hijo del emperador, Cómodo, asesina a su padre y toma el trono, ordena la ejecución de Máximo y su familia. Máximo escapa pero pierde todo lo que ama. Capturado y vendido como esclavo, es entrenado como gladiador. Ahora debe usar la arena del Coliseo para subir de rango y enfrentar al emperador en un acto final de venganza.",
     "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.2
   },
   {
     "id": 9,
     "title": "Interstellar",
-    "description": "Exploradores viajan por el espacio para salvar a la humanidad.",
+    "description": "En un futuro cercano, la Tierra se está convirtiendo en un planeta inhabitable debido a plagas masivas y tormentas de polvo. Cooper, un antiguo piloto de la NASA convertido en granjero, es reclutado para una misión espacial desesperada. Junto con un equipo de exploradores, debe viajar a través de un agujero de gusano recién descubierto en busca de un nuevo hogar para la humanidad. La misión lo enfrenta a paradojas del tiempo y lo obliga a tomar decisiones imposibles entre salvar a la humanidad o reunirse con sus hijos.",
     "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 10,
     "title": "The Green Mile",
-    "description": "Un guardia de prisión presencia hechos sobrenaturales.",
+    "description": "En 1935, Paul Edgecomb es el supervisor del bloque de la muerte en la prisión de Cold Mountain, conocido como 'La Milla Verde'. Su vida cambia cuando John Coffey, un hombre afroamericano condenado por el brutal asesinato de dos niñas, llega al corredor de la muerte. A pesar de su apariencia intimidante, Coffey posee un don sobrenatural de sanación y una gentileza extraordinaria. Paul comienza a dudar de la culpabilidad de Coffey y se enfrenta a un dilema moral devastador mientras presencia milagros que desafían toda explicación.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 11,
     "title": "Pulp Fiction",
-    "description": "Historias entrelazadas del mundo criminal en Los Ángeles.",
+    "description": "Las vidas de dos asesinos a sueldo, un boxeador, la esposa de un gánster y dos bandidos de poca monta se entrelazan en cuatro historias de violencia y redención. Vincent Vega y Jules Winnfield son sicarios que trabajan para el mafioso Marsellus Wallace. Cuando Vincent debe cuidar de Mia, la esposa de Marsellus, una noche sale terriblemente mal. Mientras tanto, Butch Coolidge, un boxeador, traiciona a Marsellus al no dejarse vencer en una pelea arreglada, desencadenando una serie de eventos impredecibles.",
     "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.5
   },
   {
     "id": 12,
     "title": "Fight Club",
-    "description": "Un hombre crea un club secreto de peleas.",
+    "description": "Un oficinista insomne y deprimido, hastiado de su vida consumista, conoce a Tyler Durden, un vendedor de jabón carismático con una filosofía de vida radicalmente diferente. Juntos forman un club de pelea clandestino que se convierte en una salida para hombres frustrados que buscan sentirse vivos nuevamente. Lo que comienza como una terapia catártica evoluciona rápidamente hacia algo mucho más peligroso: el Proyecto Mayhem, una organización anarquista que amenaza con derribar la civilización moderna.",
     "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.4
   },
   {
     "id": 13,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "description": "Un hobbit inicia la misión de destruir un anillo.",
+    "description": "En la pacífica Comarca, el joven hobbit Frodo Bolsón hereda un misterioso anillo de su tío Bilbo. El mago Gandalf revela que se trata del Anillo Único, forjado por el señor oscuro Saurón para dominar la Tierra Media. La única forma de destruirlo es arrojándolo al fuego del Monte del Destino en Mordor. Frodo acepta esta peligrosa misión y junto con una compañía de nueve miembros de diferentes razas, emprende un épico viaje lleno de peligros para salvar la Tierra Media de caer en la oscuridad eterna.",
     "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.5
   },
   {
     "id": 14,
     "title": "The Lord of the Rings: The Two Towers",
-    "description": "La batalla por la Tierra Media continúa.",
+    "description": "La Comunidad del Anillo se ha disuelto. Frodo y Sam continúan su peligroso viaje hacia Mordor, ahora guiados por la criatura Gollum, quien promete conocer un camino secreto. Mientras tanto, Aragorn, Legolas y Gimli persiguen a los Uruk-hai que capturaron a Merry y Pippin, llevándolos a Rohan donde una guerra se está gestando. El rey Théoden ha caído bajo la influencia de Saruman, quien prepara un ejército masivo para destruir a la humanidad. Los héroes deben unir fuerzas para defender el Abismo de Helm en una batalla desesperada.",
     "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.4
   },
   {
     "id": 15,
     "title": "The Lord of the Rings: The Return of the King",
-    "description": "La guerra final decide el destino del anillo.",
+    "description": "La batalla final por la Tierra Media comienza. Sauron ha lanzado su asalto total sobre Gondor y la ciudad de Minas Tirith enfrenta su hora más oscura. Aragorn debe aceptar su destino como heredero del trono y liderar a los hombres contra las fuerzas de la oscuridad. Mientras tanto, Frodo y Sam se acercan al Monte del Destino, pero la influencia del Anillo se hace más fuerte cada día, poniendo a prueba su amistad y voluntad. El destino de todos pende de un hilo mientras convergen múltiples frentes de batalla.",
     "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.5
   },
   {
     "id": 16,
     "title": "Star Wars: A New Hope",
-    "description": "Un joven granjero se une a la rebelión galáctica.",
+    "description": "En una galaxia lejana, el malvado Imperio Galáctico ha construido una estación espacial con el poder de destruir planetas enteros: la Estrella de la Muerte. La princesa Leia, líder de la Alianza Rebelde, es capturada pero logra ocultar los planos de la estación en el droide R2-D2. El destino lleva a R2-D2 y C-3PO al joven granjero Luke Skywalker en el planeta desértico de Tatooine. Luke se une al sabio Jedi Obi-Wan Kenobi, al contrabandista Han Solo y su copiloto Chewbacca en una misión audaz para rescatar a la princesa y destruir la Estrella de la Muerte.",
     "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 17,
     "title": "Star Wars: The Empire Strikes Back",
-    "description": "El Imperio contraataca a la rebelión.",
+    "description": "Tras la destrucción de la Estrella de la Muerte, la Alianza Rebelde se refugia en el planeta helado de Hoth. El Imperio, liderado por Darth Vader, descubre su ubicación y lanza un ataque devastador. Mientras Han Solo y la princesa Leia escapan hacia la Ciudad de las Nubes, Luke Skywalker viaja al pantanoso planeta Dagobah para entrenar con el maestro Jedi Yoda. Luke debe dominar la Fuerza rápidamente, pero el oscuro destino lo llama a enfrentar a Vader en una confrontación que revelará verdades impactantes sobre su pasado.",
     "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 18,
     "title": "The Lion King",
-    "description": "Un joven león reclama su lugar como rey.",
+    "description": "En las vastas llanuras africanas, nace Simba, el heredero del reino de su padre Mufasa. Desde cachorro, Simba sueña con convertirse en rey, pero su tío Scar conspira para tomar el trono. Tras una tragedia devastadora orquestada por Scar, Simba huye al exilio creyéndose culpable. Criado en la jungla por el suricato Timón y el jabalí Pumba, Simba crece alejado de su destino. Años después, el reencuentro con su amiga de la infancia Nala lo fuerza a confrontar su pasado y reclamar su lugar legítimo como rey.",
     "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.2
   },
   {
     "id": 19,
     "title": "Jurassic Park",
-    "description": "Un parque temático con dinosaurios se descontrola.",
+    "description": "El millonario John Hammond ha creado el parque temático definitivo en una isla remota de Costa Rica: Jurassic Park, donde dinosaurios clonados a partir de ADN prehistórico deambulan libres. Antes de abrirlo al público, invita a un grupo de expertos para validar la seguridad del parque, incluyendo al paleontólogo Dr. Alan Grant y la paleobotánica Dra. Ellie Sattler. Sin embargo, cuando un empleado descontento sabotea los sistemas de seguridad para robar embriones, los dinosaurios escapan de sus recintos y los visitantes deben luchar por sobrevivir en una isla donde ahora son la presa.",
     "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.1
   },
   {
     "id": 20,
     "title": "Avatar",
-    "description": "Un marine explora el mundo alienígena de Pandora.",
+    "description": "En el año 2154, los humanos están explotando Pandora, una luna exuberante habitada por los Na'vi, una especie humanoide nativa. Jake Sully, un marine parapléjico, es seleccionado para el programa Avatar, que le permite controlar un cuerpo Na'vi híbrido. Inicialmente enviado como espía para facilitar la extracción de un mineral valioso, Jake se enamora de Neytiri, una guerrera Na'vi, y aprende a valorar su cultura y conexión espiritual con la naturaleza. Cuando la corporación minera amenaza con destruir su hogar, Jake debe elegir un bando en una batalla épica por el destino de Pandora.",
     "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 21,
     "title": "The Avengers",
-    "description": "Héroes se unen para salvar al mundo.",
+    "description": "Cuando Loki, el hermano adoptivo desterrado de Thor, roba el Teseracto, un cubo de energía de poder ilimitado, y forma una alianza con una raza alienígena para conquistar la Tierra, Nick Fury, director de S.H.I.E.L.D., activa la Iniciativa Vengadores. Reúne a un equipo sin precedentes de superhéroes: Iron Man, Capitán América, Thor, Hulk, Viuda Negra y Ojo de Halcón. Sin embargo, estos héroes con egos gigantes deben superar sus diferencias y aprender a trabajar juntos si quieren tener alguna oportunidad de detener a Loki y su ejército alienígena antes de que sea demasiado tarde.",
     "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 22,
     "title": "Avengers: Endgame",
-    "description": "Los héroes enfrentan a Thanos en la batalla final.",
+    "description": "Tras el devastador chasquido de Thanos que borró a la mitad de toda la vida en el universo, los Vengadores sobrevivientes están destrozados y aparentemente derrotados. Pero cuando Ant-Man regresa del Reino Cuántico cinco años después con una posible solución, los héroes se reúnen una última vez. Su plan: viajar en el tiempo para recuperar las Gemas del Infinito antes que Thanos, deshacer el chasquido y traer de vuelta a sus seres queridos. Es una misión desesperada con consecuencias impredecibles que exigirá sacrificios imposibles para salvar el universo.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.2
   },
   {
     "id": 23,
     "title": "Iron Man",
-    "description": "Un millonario crea una armadura tecnológica.",
+    "description": "Tony Stark es un brillante multimillonario, genio inventor y playboy que dirige Stark Industries, el principal proveedor de armas para el ejército estadounidense. Durante una demostración de su última arma en Afganistán, es secuestrado por un grupo terrorista que lo obliga a construir un misil devastador. En su lugar, Tony construye en secreto una armadura tecnológica avanzada para escapar. De regreso a casa, perfecciona su diseño y se convierte en Iron Man, usando su nueva identidad de superhéroe para luchar contra el mal, enfrentando enemigos externos y traiciones dentro de su propia compañía.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 24,
     "title": "Spider-Man",
-    "description": "Un adolescente obtiene poderes arácnidos.",
+    "description": "Peter Parker es un estudiante tímido y nerd de secundaria que vive con su tío Ben y tía May. Durante una excursión escolar, es picado por una araña genéticamente modificada que le otorga habilidades sobrehumanas: fuerza aumentada, agilidad, sentido arácnido y la capacidad de trepar paredes. Inicialmente, Peter usa sus poderes para ganar dinero, pero cuando una tragedia personal lo sacude, aprende la lección más importante: 'Un gran poder conlleva una gran responsabilidad'. Adopta la identidad de Spider-Man para proteger Nueva York del villano Duende Verde, quien amenaza a todos los que Peter ama.",
     "image": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.7
   },
   {
     "id": 25,
     "title": "The Silence of the Lambs",
-    "description": "Una agente busca la ayuda de un asesino brillante.",
+    "description": "Clarice Starling, una joven cadete del FBI, es asignada a entrevistar al Dr. Hannibal Lecter, un brillante psiquiatra y caníbal encarcelado en una prisión de máxima seguridad. El FBI espera que Lecter proporcione pistas sobre 'Buffalo Bill', un asesino en serie que está secuestrando y asesinando mujeres jóvenes. Lecter acepta ayudar a Clarice, pero bajo sus propias condiciones: un intercambio retorcido de información personal por pistas del caso. A medida que la investigación avanza, se desarrolla una compleja relación psicológica entre Clarice y Lecter mientras ella corre contra el tiempo para salvar a la próxima víctima.",
     "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 26,
     "title": "Se7en",
-    "description": "Detectives persiguen a un asesino serial.",
+    "description": "El detective veterano William Somerset está a punto de retirarse cuando es emparejado con el impulsivo detective novato David Mills para investigar una serie de brutales asesinatos. Pronto descubren que están persiguiendo a un asesino metódico que está usando los siete pecados capitales como tema de sus crímenes: gula, avaricia, pereza, lujuria, soberbia, envidia e ira. Cada asesinato es más elaborado y perturbador que el anterior. Mientras el reloj avanza hacia el clímax final, Somerset y Mills se adentran en la mente retorcida del asesino, sin saber que él tiene un plan maestro que los incluye a ambos.",
     "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
     "id": 27,
     "title": "The Prestige",
-    "description": "Dos magos compiten obsesivamente.",
+    "description": "En el Londres victoriano, Robert Angier y Alfred Borden son dos magos talentosos que comienzan como amigos y colaboradores. Pero después de un truco que sale terriblemente mal, se convierten en rivales amargos, cada uno obsesionado con superar al otro y crear la mejor ilusión jamás vista. Su competencia los lleva a extremos peligrosos mientras sacrifican todo - amor, amistad e integridad - en su búsqueda por dominar el arte de la magia. Cuando Borden presenta el truco definitivo llamado 'El Hombre Transportado', Angier se obsesiona con descubrir su secreto, llevándolos a ambos por un camino oscuro de engaño, traición y tragedia.",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_FMjpg_UX1000_.jpg",
     "rating": 4.2
   },
   {
     "id": 28,
     "title": "Whiplash",
-    "description": "Un joven baterista enfrenta a su exigente mentor.",
+    "description": "Andrew Neiman es un joven baterista de jazz con talento que sueña con convertirse en uno de los grandes. Su vida cambia cuando es reclutado para la banda de estudio competitiva de su conservatorio, dirigida por el temido instructor Terence Fletcher. Fletcher es conocido por sus métodos de enseñanza abusivos y crueles, empujando a sus estudiantes más allá de sus límites físicos y emocionales. La obsesión de Andrew por ganarse la aprobación de Fletcher y alcanzar la grandeza lo consume, difuminando la línea entre la dedicación y la autodestrucción mientras lucha con la pregunta: ¿qué tan lejos es demasiado lejos para alcanzar la perfección?",
     "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.2
   },
   {
     "id": 29,
-    "title": "The Departed",
-    "description": "Un policía infiltrado se enfrenta a la mafia.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 30,
-    "title": "Django Unchained",
-    "description": "Un esclavo liberado busca rescatar a su esposa.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 31,
-    "title": "The Wolf of Wall Street",
-    "description": "La vida excesiva de un corredor de bolsa.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.1
-  },
-  {
-    "id": 32,
-    "title": "Parasite",
-    "description": "Una familia pobre se infiltra en una casa rica.",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 33,
-    "title": "Joker",
-    "description": "El origen del icónico villano de Gotham.",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 34,
-    "title": "Braveheart",
-    "description": "Un escocés lidera una rebelión por libertad.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 35,
-    "title": "The Pianist",
-    "description": "Un músico sobrevive al Holocausto.",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 36,
-    "title": "Saving Private Ryan",
-    "description": "Soldados buscan rescatar a un paracaidista.",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.3
-  },
-  {
-    "id": 37,
     "title": "Schindler's List",
-    "description": "Un empresario salva vidas durante la guerra.",
+    "description": "Oskar Schindler es un empresario alemán oportunista y miembro del Partido Nazi que llega a Polonia para hacer fortuna durante la Segunda Guerra Mundial aprovechando la mano de obra judía barata. Con la ayuda de su contador judío Itzhak Stern, Schindler construye un negocio exitoso. Sin embargo, al presenciar la brutalidad del Holocausto y la persecución sistemática de los judíos, sufre una transformación moral profunda. Arriesgando su propia vida y fortuna, Schindler y Stern trabajan para salvar a más de mil judíos de los campos de exterminio, convirtiendo su fábrica en un refugio inesperado.",
     "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.5
   },
   {
-    "id": 38,
-    "title": "The Social Network",
-    "description": "El nacimiento de Facebook.",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.9
+    "id": 30,
+    "title": "The Departed",
+    "description": "En Boston, el jefe mafioso Frank Costello ha infiltrado a Colin Sullivan como topo dentro del departamento de policía estatal. Al mismo tiempo, la policía ha infiltrado al cadete Billy Costigan como infiltrado en la organización de Costello. Ninguno conoce la identidad del otro mientras ambos bandos buscan desesperadamente al topo en sus filas. Colin asciende rápidamente en la policía mientras pasa información a Costello, y Billy se hunde cada vez más en el mundo criminal, poniendo en riesgo su identidad y salud mental. La tensión aumenta cuando ambos descubren que hay un infiltrado, iniciando una carrera mortal para desenmascarar al otro primero.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
   },
   {
-    "id": 39,
-    "title": "La La Land",
-    "description": "Un romance entre sueños en Los Ángeles.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 40,
-    "title": "Pacific Rim",
-    "description": "En un futuro no muy lejano, gigantescos robots llamados Jaegers luchan contra monstruos colosales (Kaiju) para salvar a la humanidad.",
-    "image": "https://play-lh.googleusercontent.com/Y79rzkAvwYsPQNHlU5LnMN0btYweXsnEijjZH3OcECLB7T7VJ3WRtPMq9mIre4wt-63C",
+    "id": 31,
+    "title": "The Pianist",
+    "description": "Władysław Szpilman es un talentoso pianista judío que vive en Varsovia en 1939 cuando comienza la invasión nazi de Polonia. A medida que las leyes antijudías se hacen más estrictas y su familia es deportada a campos de exterminio, Szpilman sobrevive milagrosamente escondiéndose en las ruinas de la ciudad. Durante años vive en edificios abandonados, dependiendo de la ayuda ocasional de amigos polacos mientras la ciudad es destruida a su alrededor. Su amor por la música y su voluntad de vivir lo sostienen a través del hambre, el frío y la constante amenaza de ser descubierto en esta devastadora historia real de supervivencia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
-    "id": 41,
-    "title": "Back to the Future",
-    "description": "Un adolescente viaja accidentalmente al pasado.",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 42,
-    "title": "Alien",
-    "description": "Una tripulación enfrenta una criatura letal.",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 43,
-    "title": "Terminator 2",
-    "description": "Un cyborg protege al futuro líder humano.",
-    "image": "https://pics.filmaffinity.com/Terminator_2_El_juicio_final-154873558-large.jpg",
+    "id": 32,
+    "title": "Saving Private Ryan",
+    "description": "Tras el desembarco del Día D en Normandía durante la Segunda Guerra Mundial, el Capitán John Miller recibe una misión inusual: encontrar y traer de vuelta al soldado James Ryan, cuyos tres hermanos han muerto en combate. El ejército quiere salvar al último hijo sobreviviente de la familia Ryan. Miller y su pelotón se adentran profundamente en territorio enemigo, enfrentando constantes peligros mientras buscan a un solo hombre entre miles. La misión plantea preguntas morales sobre el valor de una vida y el significado del sacrificio mientras los soldados arriesgan todo por alguien que ni siquiera conocen.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.3
   },
   {
-    "id": 44,
-    "title": "Rocky",
-    "description": "Un boxeador humilde tiene su gran oportunidad.",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
+    "id": 33,
+    "title": "The Usual Suspects",
+    "description": "Después de que una explosión en un barco deja 27 muertos, el único superviviente aparente es Roger 'Verbal' Kint, un estafador lisiado. El agente de aduanas Dave Kujan interroga a Verbal, quien narra la historia de cómo él y otros cuatro criminales fueron reunidos en una línea de identificación aparentemente rutinaria semanas antes. Este encuentro fortuito los lleva a trabajar juntos en una serie de robos cada vez más complejos, todos orquestados por el misterioso Keyser Söze, un criminal legendario cuya existencia misma es cuestionable. Mientras Verbal cuenta su historia, las verdades y mentiras se entrelazan en un juego de engaños magistral.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
   },
   {
-    "id": 45,
-    "title": "Raging Bull",
-    "description": "La vida turbulenta de un boxeador.",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 46,
-    "title": "Toy Story",
-    "description": "Juguetes cobran vida cuando nadie los ve.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 40,
-    "title": "The Truman Show",
-    "description": "Un hombre descubre que su vida es un programa.",
-    "image": "https://www.originalfilmart.com/cdn/shop/files/truman_show_1998_original_film_art_76a66942-0f82-4533-8165-156ea9a1d5bb_5000x.jpg?v=1709162543",
+    "id": 34,
+    "title": "The Shining",
+    "description": "Jack Torrance acepta un trabajo como cuidador de invierno del aislado Hotel Overlook en las montañas de Colorado, viendo esto como la oportunidad perfecta para reconectarse con su familia y trabajar en su escritura. Se muda al hotel con su esposa Wendy y su hijo Danny, quien posee el 'resplandor', una habilidad psíquica que le permite ver el pasado violento del hotel y presagiar futuros horrores. A medida que la nieve los atrapa y el aislamiento se intensifica, el hotel comienza a ejercer su siniestra influencia sobre Jack, despertando sus demonios internos y transformándolo en una amenaza mortal para su propia familia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.1
   },
   {
-    "id": 48,
-    "title": "Up",
-    "description": "Un anciano vuela su casa con globos.",
-    "image": "https://lumiere-a.akamaihd.net/v1/images/p_up_19753_e6f911e3.jpeg?region=0%2C0%2C540%2C810",
-    "rating": 4.2
-  },
-  {
-    "id": 49,
-    "title": "Coco",
-    "description": "Un niño viaja al mundo de los muertos.",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.2
-  },
-  {
-    "id": 50,
-    "title": "Inside Out",
-    "description": "Las emociones guían la vida de una niña.",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 51,
-    "title": "Mad Max: Fury Road",
-    "description": "Una persecución épica en el desierto.",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 52,
-    "title": "Black Panther",
-    "description": "El rey de Wakanda protege su nación.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.6
-  },
-  {
-    "id": 53,
-    "title": "Doctor Strange",
-    "description": "Un cirujano aprende artes místicas.",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.8
-  },
-  {
-    "id": 54,
-    "title": "The Batman",
-    "description": "Un joven Bruce Wayne combate el crimen.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.9
-  },
-  {
-    "id": 55,
-    "title": "Deadpool",
-    "description": "Un antihéroe sarcástico busca venganza.",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 56,
-    "title": "Logan",
-    "description": "Un envejecido Wolverine protege a una niña.",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 57,
-    "title": "The Hunger Games",
-    "description": "Una joven lucha en juegos mortales.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.6
-  },
-  {
-    "id": 58,
-    "title": "Harry Potter and the Sorcerer's Stone",
-    "description": "Un niño descubre que es mago.",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.8
-  },
-  {
-    "id": 59,
-    "title": "Harry Potter and the Deathly Hallows",
-    "description": "La batalla final contra Voldemort.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 60,
-    "title": "The Chronicles of Narnia",
-    "description": "Niños descubren un mundo mágico.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.5
-  },
-  {
-    "id": 61,
-    "title": "Frozen",
-    "description": "Dos hermanas enfrentan poderes helados.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.7
-  },
-  {
-    "id": 62,
-    "title": "Moana",
-    "description": "Una joven navega para salvar su isla.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.8
-  },
-  {
-    "id": 63,
-    "title": "Shrek",
-    "description": "Un ogro vive una aventura inesperada.",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 64,
-    "title": "Despicable Me",
-    "description": "Un villano adopta a tres niñas.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.8
-  },
-  {
-    "id": 65,
-    "title": "Minions",
-    "description": "Los ayudantes amarillos buscan un jefe.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.2
-  },
-  {
-    "id": 66,
-    "title": "The Incredibles",
-    "description": "Una familia de superhéroes regresa a la acción.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.0
-  },
-  {
-    "id": 67,
-    "title": "Cars",
-    "description": "Un auto aprende sobre amistad.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_FMjpg_UX1000_.jpg",
-    "rating": 3.6
-  },
-  {
-    "id": 68,
-    "title": "A Beautiful Mind",
-    "description": "La vida del matemático John Nash.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "id": 35,
+    "title": "The Sixth Sense",
+    "description": "El Dr. Malcolm Crowe es un psicólogo infantil respetado cuya vida se desmorona cuando un antiguo paciente lo ataca antes de suicidarse. Meses después, todavía atormentado por su fracaso, Malcolm acepta trabajar con Cole Sear, un niño de ocho años que sufre de ansiedad extrema. Cole finalmente confía su terrible secreto al Dr. Crowe: 'Veo gente muerta'. Estas apariciones atormentadas de los muertos que no saben que están muertos aterrorizan a Cole. Malcolm debe ayudar al niño a entender su don mientras lidia con sus propios problemas personales, todo construyendo hacia una revelación impactante que cambiará todo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.1
   },
   {
-    "id": 69,
+    "id": 36,
     "title": "Good Will Hunting",
-    "description": "Un genio enfrenta su pasado.",
+    "description": "Will Hunting es un joven genio autodidacta que trabaja como conserje en el MIT. Cuando resuelve un difícil problema matemático dejado en un pizarrón por el profesor Gerald Lambeau, su extraordinario talento es descubierto. Sin embargo, Will viene de un pasado difícil en los barrios duros de Boston y está más interesado en las peleas callejeras y pasar tiempo con sus amigos que en desarrollar su don. Después de un altercado con la ley, Lambeau interviene con la condición de que Will estudie matemáticas con él y vea a un terapeuta, el Dr. Sean Maguire, quien desafía a Will a confrontar su pasado traumático y alcanzar su potencial.",
     "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.2
   },
   {
+    "id": 37,
+    "title": "A Beautiful Mind",
+    "description": "John Forbes Nash Jr. es un brillante pero socialmente torpe estudiante de posgrado en Princeton que desarrolla una teoría revolucionaria en economía matemática. Su trabajo le gana prestigio académico y eventualmente un puesto criptográfico secreto en el gobierno durante la Guerra Fría. Nash se obsesiona con descifrar códigos soviéticos, pero su mundo comienza a desmoronarse cuando se revela que está sufriendo de esquizofrenia paranoide. Con la ayuda de su devota esposa Alicia, Nash debe aprender a distinguir la realidad de sus alucinaciones mientras lucha por recuperar su carrera académica y eventualmente ganar el Premio Nobel.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 38,
+    "title": "The Truman Show",
+    "description": "Truman Burbank es un vendedor de seguros que vive una vida aparentemente perfecta en la idílica ciudad costera de Seahaven. Lo que Truman no sabe es que toda su vida ha sido un reality show gigantesco transmitido las 24 horas a millones de espectadores alrededor del mundo. Seahaven es un set de televisión masivo, todos en su vida son actores, y cada momento desde su nacimiento ha sido planificado y filmado. Cuando comienzan a aparecer fallas en la producción, Truman empieza a sospechar que algo no está bien. A medida que busca la verdad, el creador del programa, Christof, intenta mantenerlo dentro del único mundo que conoce.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 39,
+    "title": "The Social Network",
+    "description": "En el otoño de 2003, Mark Zuckerberg, un estudiante de Harvard de 19 años, crea una red social llamada 'thefacebook' desde su dormitorio. La idea, inicialmente concebida después de una ruptura dolorosa, explota en popularidad, expandiéndose rápidamente a otras universidades. Lo que comienza como un proyecto entre amigos se convierte en un fenómeno global valorado en miles de millones. Sin embargo, el ascenso meteórico de Facebook viene con un costo: traiciones, demandas legales de antiguos socios que afirman que Zuckerberg robó su idea, y la destrucción de la única amistad verdadera que tenía.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 40,
+    "title": "12 Angry Men",
+    "description": "En un día caluroso de verano en Nueva York, doce jurados se reúnen para decidir el destino de un adolescente acusado de asesinar a su padre. El caso parece abierto y cerrado, y todos quieren votar rápido para irse a casa. Sin embargo, el Jurado #8 es el único que vota 'no culpable', no porque esté seguro de la inocencia del acusado, sino porque siente que se debe a sí mismos al menos discutir un caso que podría resultar en la pena de muerte. Lo que sigue es una intensa deliberación donde prejuicios personales, dudas razonables y la verdadera naturaleza de la justicia son puestos a prueba.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 41,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "description": "Randle McMurphy es un criminal que finge enfermedad mental para cumplir su sentencia en un hospital psiquiátrico en lugar de en prisión, creyendo que será más fácil. Una vez dentro, descubre que el lugar es dirigido con mano de hierro por la enfermera Ratched, quien mantiene a los pacientes bajo control mediante medicación, intimidación y manipulación psicológica. McMurphy se convierte en la voz rebelde de los pacientes, desafiando constantemente a Ratched y alentando a otros a reclamar su individualidad. Su lucha por la libertad personal contra el sistema opresivo culmina en un enfrentamiento épico con consecuencias devastadoras.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "title": "Rear Window",
+    "description": "L.B. 'Jeff' Jefferies es un fotógrafo de acción confinado a su apartamento de Greenwich Village con una pierna rota. Aburrido y frustrado, comienza a observar a sus vecinos a través de su ventana trasera. Lo que empieza como un pasatiempo inocente se vuelve una obsesión cuando Jeff comienza a sospechar que uno de sus vecinos ha asesinado a su esposa. Con la ayuda de su novia, la bella modelo Lisa, y su enfermera Stella, Jeff intenta resolver el misterio desde su ventana. Sin embargo, cuando el sospechoso descubre que está siendo observado, Jeff se encuentra indefenso y en grave peligro.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 43,
+    "title": "Psycho",
+    "description": "Marion Crane, una secretaria de Phoenix, roba $40,000 de su empleador en un impulso desesperado y huye de la ciudad. Durante una noche tormentosa, se detiene en el remoto Motel Bates, administrado por el nervioso pero cortés Norman Bates, quien vive con su dominante madre en la casa victoriana detrás del motel. Después de una conversación perturbadora con Norman, Marion decide regresar y devolver el dinero, pero nunca tendrá la oportunidad. Cuando desaparece misteriosamente, su hermana y su novio comienzan a investigar, descubriendo los oscuros secretos que habitan tanto en el motel como en la mente fracturada de Norman Bates.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 44,
+    "title": "Casablanca",
+    "description": "Durante la Segunda Guerra Mundial, Rick Blaine dirige el Café Americano más popular en Casablanca, Marruecos, un punto de tránsito crucial para refugiados que intentan escapar a América. Rick es cínico y neutral, negándose a involucrarse en los conflictos políticos, hasta que Ilsa Lund, su antiguo amor, entra a su café con su esposo Victor Laszlo, un líder de la resistencia checa buscado por los nazis. Rick debe confrontar su pasado doloroso y decidir entre su propio deseo y hacer lo correcto: ayudar a Victor a escapar o recuperar a Ilsa, sabiendo que solo puede tener uno.",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 45,
+    "title": "City of God",
+    "description": "En las favelas de Río de Janeiro desde finales de los años 60 hasta principios de los 80, seguimos la vida de varios niños que crecen en la Ciudad de Dios, un suburbio violento. Rocket es un joven que sueña con convertirse en fotógrafo y usar su cámara como escape de la pobreza y violencia. Mientras tanto, su amigo de la infancia Li'l Zé se transforma en uno de los traficantes de drogas más peligrosos y temidos del lugar. A través de los ojos de Rocket, presenciamos la espiral de violencia, rivalidades entre pandillas y el impacto devastador del crimen organizado en toda una generación de niños.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 46,
+    "title": "Cinema Paradiso",
+    "description": "Salvatore 'Totó' Di Vita es un niño siciliano que desarrolla una amistad profunda con Alfredo, el proyeccionista del Cinema Paradiso, el único cine de su pequeño pueblo. Alfredo se convierte en una figura paterna para Totó, enseñándole sobre el cine y la vida mientras el niño se enamora del séptimo arte. A medida que Totó crece, descubre el amor, enfrenta la tragedia y debe tomar decisiones difíciles sobre su futuro. Décadas después, ahora un famoso director en Roma, Totó regresa a su pueblo natal para el funeral de Alfredo, confrontando memorias olvidadas y un regalo final que cambiará su comprensión del pasado.",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 47,
+    "title": "Life Is Beautiful",
+    "description": "En la Italia de 1939, Guido es un judío italiano carismático y soñador que se enamora de la maestra Dora. Se casan y tienen un hijo, Giosuè. Su vida idílica se desmorona cuando son enviados a un campo de concentración nazi. Determinado a proteger la inocencia de su hijo del horror que los rodea, Guido convierte su encarcelamiento en un elaborado juego: le dice a Giosuè que están participando en una competencia donde deben acumular mil puntos para ganar un tanque de verdad. Con humor, ingenio e imaginación infinita, Guido sacrifica todo para mantener viva la esperanza y el espíritu de su hijo.",
+    "image": "https://m.media-amazon.com/images/I/71Hu4tVbdnL._AC_UF894,1000_QL80_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 48,
+    "title": "Spirited Away",
+    "description": "Chihiro, una niña de diez años malcriada y testaruda, se muda con sus padres a un nuevo vecindario. Durante el viaje, la familia se desvía y descubre lo que parece ser un parque temático abandonado. Mientras exploran, los padres de Chihiro son transformados en cerdos por comer comida destinada a los espíritus. Chihiro descubre que ha entrado en un mundo mágico gobernado por la bruja Yubaba, quien controla una casa de baños para espíritus. Para salvar a sus padres y regresar al mundo humano, Chihiro debe trabajar en la casa de baños, enfrentar sus miedos y redescubrir su valentía y determinación.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 49,
+    "title": "Parasite",
+    "description": "La familia Kim vive hacinada en un semisótano en los barrios pobres de Seúl, haciendo trabajos temporales mal pagados. Su suerte cambia cuando el hijo mayor, Ki-woo, consigue un trabajo como tutor de inglés de la hija de los adinerados Park. Uno por uno, la familia Kim se infiltra en la casa de los Park mediante engaños, reemplazando a su personal doméstico. Los Kim disfrutan de su nueva vida parasitando a los ricos e ingenuos Park, pero su esquema se complica cuando descubren que no son los únicos con secretos. Las diferencias de clase explotan en una espiral de violencia que nadie puede controlar.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 50,
+    "title": "Back to the Future",
+    "description": "Marty McFly es un adolescente típico de los años 80 cuyo mejor amigo es el excéntrico científico Doc Brown. Cuando Doc inventa una máquina del tiempo usando un DeLorean modificado, un accidente envía a Marty 30 años atrás a 1955. Allí, Marty accidentalmente interfiere con el primer encuentro de sus padres, poniendo en peligro su propia existencia. Con la ayuda del Doc Brown joven, Marty debe asegurarse de que sus padres se enamoren mientras busca desesperadamente una manera de generar suficiente energía para impulsar el DeLorean de regreso a 1985, todo antes de desvanecerse de la existencia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 51,
+    "title": "Toy Story",
+    "description": "En el mundo secreto de los juguetes, Woody, un vaquero de cuerda, es el juguete favorito de Andy y el líder indiscutible de todos los juguetes en la habitación. Su mundo cambia cuando Andy recibe a Buzz Lightyear, un guardián espacial de alta tecnología, como regalo de cumpleaños. Buzz no solo amenaza la posición de Woody como favorito, sino que ni siquiera sabe que es un juguete. La rivalidad entre ellos los lleva a perderse fuera de casa, donde deben superar sus diferencias y trabajar juntos para escapar del vecino sádico Sid y regresar con Andy antes de que la familia se mude a una nueva casa.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 52,
+    "title": "Coco",
+    "description": "Miguel es un niño de 12 años que sueña con convertirse en músico como su ídolo, el difunto Ernesto de la Cruz, a pesar de que su familia ha prohibido la música por generaciones. Durante el Día de Muertos, Miguel accidentalmente es transportado a la Tierra de los Muertos, un lugar vibrante y colorido donde los espíritus de sus ancestros celebran. Allí conoce al encantador tramposo Héctor, quien promete ayudarlo a regresar al mundo de los vivos a cambio de que Miguel lleve su foto a un altar familiar. Juntos emprenden un viaje extraordinario para descubrir la verdadera historia detrás de la prohibición musical de la familia.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 53,
+    "title": "Inside Out",
+    "description": "Riley es una niña de 11 años cuya vida se rige por cinco emociones básicas que viven en el Cuartel General de su mente: Alegría, Tristeza, Miedo, Furia y Desagrado. Alegría lidera el grupo y se asegura de que Riley sea feliz. Pero cuando la familia se muda de Minnesota a San Francisco, las emociones de Riley entran en crisis. Durante el caos, Alegría y Tristeza son accidentalmente expulsadas del Cuartel General y deben viajar a través de la compleja mente de Riley para regresar, mientras Miedo, Furia y Desagrado intentan mantener las cosas funcionando. Es una carrera contra el tiempo antes de que Riley tome decisiones que cambien su vida.",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 54,
+    "title": "WALL-E",
+    "description": "En el año 2805, la Tierra ha sido abandonada por la humanidad, que ahora vive en el espacio en la nave Axiom debido a la contaminación extrema. WALL-E es el último robot de limpieza que queda en el planeta, pasando sus días compactando basura en cubos y coleccionando artefactos humanos curiosos. Su vida solitaria cambia cuando EVE, un robot de exploración elegante y avanzado, llega en busca de señales de vida. WALL-E se enamora instantáneamente de EVE y cuando ella encuentra una planta y regresa al espacio, WALL-E la sigue en una aventura épica que podría determinar el futuro de la humanidad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 55,
+    "title": "Up",
+    "description": "Carl Fredricksen es un viudo gruñón de 78 años que ha pasado toda su vida soñando con viajar a las cataratas Paradise en Sudamérica, una promesa que hizo a su difunta esposa Ellie. Cuando es forzado a mudarse a un hogar de ancianos, Carl ata miles de globos a su casa y finalmente emprende su aventura. Sin saberlo, lleva consigo a Russell, un entusiasta niño explorador que accidentalmente se encontraba en el porche. Juntos enfrentan tormentas, villanos y criaturas extrañas mientras Carl aprende que a veces las aventuras más grandes no son sobre el destino, sino sobre quién está a tu lado durante el viaje.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZxnlElPQ3Q-ToyX8s3shp-rdM8JLCWhupfp101IT-BIBY_N2RujSNXTFjRyKm0G2mTBrRkDrAjNYhJDHmgseskSu1wk64seM1gLj-dw&s=10",
+    "rating": 4.0
+  },
+  {
+    "id": 56,
+    "title": "Finding Nemo",
+    "description": "Marlin es un pez payaso sobreprotector que cría solo a su hijo Nemo después de que un ataque de barracuda matara a su esposa y el resto de sus huevos. Cuando Nemo, que tiene una aleta más pequeña, es capturado por un buceador en la Gran Barrera de Coral y llevado a un acuario dental en Sydney, Marlin debe superar sus miedos y emprender un épico viaje a través del océano para rescatarlo. En el camino, se encuentra con Dory, un pez cirujano azul con problemas de memoria a corto plazo, quien se convierte en su compañera de viaje. Juntos enfrentan tiburones, medusas y corrientes mientras Marlin aprende a dejar ir.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg",
+    "rating": 4.0
+  },
+  {
+    "id": 57,
+    "title": "The Incredibles",
+    "description": "Bob Parr solía ser el superhéroe Mr. Incredible, salvando vidas y luchando contra el mal a diario. Pero después de que las demandas legales forzaron a todos los superhéroes a ocultarse, Bob se ve obligado a vivir una vida civil como agente de seguros, añorando sus días de gloria. Su esposa Helen, antes Elastigirl, también está retirada y juntos crían a sus tres hijos, cada uno con superpoderes. Cuando Bob es reclutado secretamente para una misión, descubre una conspiración que amenaza a todos los superhéroes. La familia entera debe unirse, superar sus conflictos personales y trabajar como equipo para salvar el mundo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 58,
+    "title": "Ratatouille",
+    "description": "Remy es una rata con un paladar excepcional y sueños de convertirse en chef, inspirado por el fallecido chef Auguste Gusteau. En París, Remy forma una alianza improbable con Linguini, un torpe joven que trabaja como lavaplatos en el restaurant de Gusteau, ahora en decadencia. Remy, escondido bajo el sombrero de chef de Linguini, controla sus movimientos tirándole del cabello, permitiéndole cocinar platos extraordinarios. Su asociación secreta reaviva la reputación del restaurante, pero cuando el crítico culinario más temido de Francia, Anton Ego, llega para una crítica, Remy debe decidir si arriesga todo para probar que cualquiera puede cocinar.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 59,
+    "title": "Monsters, Inc.",
+    "description": "En la ciudad de Monstruópolis, los monstruos generan energía para su ciudad asustando a niños humanos. James P. 'Sulley' Sullivan es el mejor asustador de Monsters, Inc., la compañía generadora de energía más grande, y su asistente Mike Wazowski es su mejor amigo. Su mundo se pone patas arriba cuando una niña humana llamada Boo accidentalmente entra en su mundo. Con los niños considerados tóxicos para los monstruos, Sulley y Mike deben devolver a Boo sin ser detectados. En el proceso, descubren una conspiración corporativa y aprenden que la risa de los niños genera mucha más energía que sus gritos, revolucionando su sociedad.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 60,
+    "title": "The Princess Bride",
+    "description": "Un abuelo lee a su nieto enfermo la historia de Westley, un humilde granjero que se enamora de Buttercup, una bella joven de su pueblo. Cuando Westley parte a buscar fortuna pero es reportado como muerto, Buttercup acepta reluctantemente casarse con el Príncipe Humperdinck. Sin embargo, antes de la boda, es secuestrada por el siciliano Vizzini y sus secuaces: el espadachín español Inigo Montoya y el gigante Fezzik. Son perseguidos por el misterioso Hombre de Negro, quien resulta ser Westley. Lo que sigue es una aventura clásica de capa y espada llena de romance, venganza, duelos de ingenio, pantanos de fuego y amor verdadero.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 61,
+    "title": "Memento",
+    "description": "Leonard Shelby sufre de amnesia anterógrada: no puede formar nuevos recuerdos desde el traumático ataque que mató a su esposa. Cada día, Leonard despierta sin recordar lo que hizo el día anterior. Para seguir funcionando, usa un elaborado sistema de notas, polaroids y tatuajes en su cuerpo para rastrear información. Leonard está obsesionado con vengar el asesinato de su esposa, pero sin memoria confiable, ¿cómo puede estar seguro de algo? La historia se cuenta en orden cronológico inverso, colocando al espectador en la confusa perspectiva de Leonard mientras desentraña un misterio donde nada es lo que parece.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 62,
+    "title": "American History X",
+    "description": "Derek Vinyard es un brillante joven de Venice Beach que se convierte en el líder de un grupo neonazi después del asesinato de su padre por parte de traficantes de drogas afroamericanos. Su camino de odio culmina cuando asesina a dos ladrones negros, siendo sentenciado a tres años en prisión. En la cárcel, Derek es forzado a reevaluar sus creencias cuando es protegido por un recluso negro y traicionado por sus antiguos camaradas nazis. Cuando sale, descubre que su hermano menor Danny está siguiendo sus pasos. Derek tiene solo 24 horas para salvar a Danny del camino de odio que casi destruye su propia vida.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 63,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "Joel Barish descubre que su ex-novia Clementine ha usado un procedimiento experimental para borrar todos sus recuerdos de su relación. Herido y desesperado, Joel decide someterse al mismo procedimiento. Mientras los técnicos de Lacuna Inc. trabajan durante la noche para borrar a Clementine de su mente, Joel, atrapado dentro de sus propios recuerdos que se desvanecen, se da cuenta de que no quiere olvidarla. Comienza una carrera desesperada a través de su mente para preservar al menos algunos recuerdos de ella, llevándonos a un viaje surrealista a través del amor, la pérdida y la pregunta de si es mejor haber amado y perdido.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 64,
+    "title": "The Big Lebowski",
+    "description": "Jeff 'The Dude' Lebowski es un vago desempleado de Los Ángeles que pasa sus días bebiendo White Russians y jugando boliche con sus amigos Walter y Donny. Su vida tranquila se complica cuando es confundido con un millonario que comparte su nombre. Matones que buscan una deuda golpean al Dude y orinan en su alfombra. Buscando compensación, el Dude busca al otro Lebowski, quien lo contrata para entregar un rescate por su esposa secuestrada. Lo que sigue es una serie de eventos absurdos involucrando nihilistas alemanes, un pornógrafo excéntrico y una alfombra que realmente unía la habitación.",
+    "image": "https://play-lh.googleusercontent.com/F6j_I4alSic18_Qvo39zNM9IeAJ93kjvnpupzgKyEqVu80lpqm9gyTWO14TqLFDQqyPy",
+    "rating": 4.0
+  },
+  {
+    "id": 65,
+    "title": "Amélie",
+    "description": "Amélie Poulain es una joven camarera tímida e imaginativa que vive sola en Montmartre, París. Después de encontrar una vieja caja de tesoros de la infancia de un antiguo inquilino y ver la alegría que trae al devolverla, Amélie decide dedicar su vida a arreglar las vidas de quienes la rodean. Mientras orquesta pequeños actos de bondad para sus vecinos, inquilinos y extraños, descuida su propia necesidad de amor y conexión. Todo cambia cuando conoce a Nino Quincampoix, un coleccionista de álbumes de fotos desechados. Amélie debe superar su timidez y miedo a la vulnerabilidad para permitirse ser feliz.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 66,
+    "title": "Oldboy",
+    "description": "Oh Dae-su es un hombre de negocios ordinario que, tras una noche de borrachera, es secuestrado y encerrado en una habitación que parece una celda de hotel. Sin explicación alguna, permanece prisionero durante 15 años, con una televisión como única compañía. Igualmente misteriosamente, un día es liberado. Con solo cinco días para descubrir quién lo encerró y por qué, Dae-su emprende una búsqueda violenta de venganza. Con la ayuda de una joven chef, sigue pistas que lo llevan a una verdad impactante y devastadora que cambiará su percepción de todo. Esta es una historia brutal sobre venganza y las consecuencias del pasado.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 67,
+    "title": "Pan's Labyrinth",
+    "description": "España, 1944. Ofelia es una niña fascinada por los cuentos de hadas que debe mudarse con su madre embarazada al molino en el bosque donde su nuevo padrastro, el brutal Capitán Vidal, está cazando republicanos rebeldes. Una noche, Ofelia conoce a un fauno que le revela que es la princesa perdida de un reino subterráneo. Para reclamar su trono, debe completar tres tareas peligrosas antes de la luna llena. Mientras Ofelia navega entre el mundo mágico y oscuro del laberinto y la creciente brutalidad de la guerra, debe decidir entre la fantasía y la realidad, la inocencia y la madurez.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 68,
+    "title": "The Lives of Others",
+    "description": "Alemania Oriental, 1984. El Capitán Gerd Wiesler es un agente de la Stasi, la temida policía secreta, que es asignado para espiar al dramaturgo Georg Dreyman y su novia, la actriz Christa-Maria Sieland. Se sospecha que Dreyman tiene tendencias subversivas. Wiesler instala micrófonos en su apartamento y comienza a monitorear cada aspecto de sus vidas. Sin embargo, mientras escucha sus conversaciones, su arte y su amor, Wiesler comienza a cuestionar el régimen que ha servido fielmente. Gradualmente se encuentra protegiendo a las personas que se supone debe traicionar, arriesgando todo por lo que cree que es correcto.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 69,
+    "title": "American Beauty",
+    "description": "Lester Burnham es un hombre de mediana edad atrapado en una existencia suburbana sin sentido. Trabaja en un empleo que odia, su matrimonio con Carolyn es frío y distante, y su hija adolescente Jane lo desprecia. En medio de esta crisis existencial, Lester se obsesiona con Angela, la mejor amiga de Jane, iniciando una regresión a la adolescencia: comienza a hacer ejercicio, fuma marihuana y renuncia a su trabajo. Mientras tanto, su vecino homofóbico esconde sus propios secretos oscuros. A lo largo del año, las fachadas perfectas de la vida suburbana se desmoronan, revelando la desesperación, anhelo y belleza ocultos debajo.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0
+  },
+  {
     "id": 70,
-    "title": "The Revenant",
-    "description": "Un explorador sobrevive en la naturaleza.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "title": "Mad Max: Fury Road",
+    "description": "En un futuro post-apocalíptico donde el agua y la gasolina son los recursos más preciados, Max Rockatansky es capturado por el ejército del tiránico Immortan Joe y usado como 'bolsa de sangre' para el War Boy enfermo Nux. Cuando la Imperator Furiosa, una de las lugartenientes de confianza de Joe, traiciona al líder ayudando a sus cinco esposas a escapar, desencadena una persecución frenética a través del desierto. Max se ve obligado a aliarse con Furiosa y las esposas en una carrera desesperada hacia la salvación. Lo que sigue es una batalla motorizada épica y brutal por la supervivencia, la libertad y la redención.",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 71,
-    "title": "1917",
-    "description": "Dos soldados cruzan territorio enemigo.",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg",
-    "rating": 4.1
+    "title": "Her",
+    "description": "En un futuro cercano ligeramente distópico de Los Ángeles, Theodore Twombly es un hombre solitario y melancólico que trabaja escribiendo cartas personales para otras personas. Todavía herido por su divorcio inminente, Theodore compra un nuevo sistema operativo avanzado diseñado para adaptarse a las necesidades del usuario. El sistema operativo, que se llama a sí mismo Samantha, tiene una voz femenina cálida, graciosa y sorprendentemente humana. Theodore y Samantha desarrollan una amistad que evoluciona en algo más profundo. Mientras su relación se intensifica, Theodore debe confrontar la naturaleza del amor, la conciencia y la conexión humana en la era digital.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9
   },
   {
     "id": 72,
-    "title": "The Hateful Eight",
-    "description": "Extraños se reúnen en una cabaña nevada.",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_FMjpg_UX1000_.jpg",
+    "title": "The Departed",
+    "description": "En Boston, el jefe mafioso Frank Costello ha infiltrado a Colin Sullivan como topo dentro del departamento de policía estatal. Al mismo tiempo, la policía ha infiltrado al cadete Billy Costigan como infiltrado en la organización de Costello. Ninguno conoce la identidad del otro mientras ambos bandos buscan desesperadamente al topo en sus filas. Colin asciende rápidamente en la policía mientras pasa información a Costello, y Billy se hunde cada vez más en el mundo criminal, poniendo en riesgo su identidad y salud mental. La tensión aumenta cuando ambos descubren que hay un infiltrado, iniciando una carrera mortal para desenmascarar al otro primero.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9
   },
   {
     "id": 73,
     "title": "Blade Runner 2049",
-    "description": "Un replicante descubre un secreto oculto.",
+    "description": "Treinta años después de los eventos de Blade Runner, K es un Blade Runner replicante de nueva generación que trabaja para el Departamento de Policía de Los Ángeles retirando modelos antiguos. Durante una misión de rutina, K descubre un secreto enterrado hace mucho tiempo que tiene el potencial de sumergir lo que queda de la sociedad en el caos: evidencia de que los replicantes pueden reproducirse. Este hallazgo desencadena una búsqueda desesperada del legendario Blade Runner Rick Deckard, quien ha estado desaparecido durante décadas. K debe desentrañar el misterio mientras cuestiona su propia naturaleza, identidad y lugar en el mundo.",
     "image": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 74,
     "title": "The Grand Budapest Hotel",
-    "description": "Un conserje vive aventuras extravagantes.",
+    "description": "En la ficticia República de Zubrowka durante los años 30, el legendario conserje Monsieur Gustave H. del Grand Budapest Hotel y su protegido, el botones Zero Moustafa, se ven envueltos en el robo de una pintura renacentista invaluable tras la muerte de una condesa anciana. Acusado falsamente del asesinato de la condesa, Gustave y Zero huyen mientras son perseguidos por los militares, la familia codiciosa de la condesa y una Europa al borde de la guerra. A través de flashbacks narrativos, seguimos las aventuras extravagantes de Gustave mientras mantiene su elegancia y principios ante el caos creciente, contadas por el ya anciano Zero.",
     "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 75,
     "title": "No Country for Old Men",
-    "description": "Un hombre encuentra dinero y desata violencia.",
+    "description": "Mientras caza en el desierto de Texas en 1980, Llewelyn Moss descubre el violento desenlace de un trato de drogas que salió mal: varios hombres muertos, un camión lleno de heroína y una maleta con dos millones de dólares. Moss toma el dinero, desencadenando una ola de violencia imparable. Anton Chigurh, un asesino a sueldo psicópata con un código moral retorcido y una pistola de aire comprimido, es contratado para recuperar el dinero. Mientras tanto, el Sheriff Ed Tom Bell, cercano a la jubilación, persigue a ambos hombres, reflexionando sobre un mundo cada vez más violento que ya no reconoce ni entiende.",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.1
   },
   {
     "id": 76,
     "title": "Get Out",
-    "description": "Una visita familiar se vuelve aterradora.",
+    "description": "Chris Washington, un joven fotógrafo afroamericano, acepta pasar un fin de semana en la propiedad suburbana de los padres de su novia blanca Rose. Aunque Rose le asegura que sus padres liberales no tendrán problema con su relación interracial, Chris se siente cada vez más incómodo con la atmósfera extraña y el comportamiento inquietante de los sirvientes negros de la familia. Lo que comienza como malestares sociales incómodos se convierte en una pesadilla aterradora cuando Chris descubre el secreto oscuro que se esconde debajo de la fachada progresista. Atrapado en una situación imposible, debe luchar por su supervivencia.",
     "image": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9
   },
   {
     "id": 77,
     "title": "A Quiet Place",
-    "description": "Una familia vive en silencio para sobrevivir.",
+    "description": "En un futuro post-apocalíptico, la familia Abbott vive en silencio absoluto en una granja aislada. El mundo ha sido invadido por criaturas ciegas que cazan usando únicamente el sonido ultra-agudizado: el más mínimo ruido significa una muerte instantánea. Lee y Evelyn Abbott han creado un santuario para sus hijos, comunicándose mediante lenguaje de señas y caminando descalzos por senderos de arena. Pero cuando Evelyn queda embarazada, la familia enfrenta el desafío imposible de mantener el silencio con un recién nacido. Deben encontrar formas de sobrevivir sin hacer ruido mientras protegen a su familia de las criaturas que acechan en las sombras.",
     "image": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.8
   },
   {
     "id": 78,
     "title": "The Exorcist",
-    "description": "Una niña es poseída por una entidad.",
+    "description": "En Georgetown, Washington D.C., la famosa actriz Chris MacNeil observa con horror cómo su hija de 12 años, Regan, comienza a experimentar comportamientos perturbadores y violentos. Los médicos no encuentran explicación física ni psicológica para los síntomas cada vez más aterradores de Regan: blasfemias, levitación, conocimiento de eventos que no podría saber y fuerza sobrehumana. Como último recurso, Chris busca ayuda de la Iglesia Católica. El Padre Karras, un sacerdote que lucha con su propia crisis de fe, es convocado para evaluar a Regan. Lo que descubre lo lleva a solicitar un exorcismo oficial, enfrentándose al mal más puro y antiguo.",
     "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 79,
     "title": "It",
-    "description": "Un grupo enfrenta a un payaso maligno.",
+    "description": "En el verano de 1989 en el pueblo de Derry, Maine, los niños están desapareciendo. Un grupo de siete niños inadaptados conocidos como el 'Club de los Perdedores' se une después de sus propios encuentros aterradores con una entidad malévola que se presenta de muchas formas, más comúnmente como Pennywise el Payaso Bailarín. Pennywise explota los miedos más profundos de cada niño, apareciendo cada 27 años para alimentarse. Los niños, liderados por Bill Denbrough cuyo hermano menor fue una de las víctimas, deben enfrentar sus miedos personales y trabajar juntos para destruir al payaso antes de que más niños mueran.",
     "image": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.6
   },
   {
     "id": 80,
     "title": "Halloween",
-    "description": "Un asesino regresa a su ciudad.",
+    "description": "En la noche de Halloween de 1963 en Haddonfield, Illinois, Michael Myers de seis años asesina brutalmente a su hermana adolescente. Es internado en un sanatorio psiquiátrico de máxima seguridad bajo el cuidado del Dr. Sam Loomis. Quince años después, la noche antes de Halloween, Michael escapa y regresa a Haddonfield. El Dr. Loomis, convencido de que Michael es pura maldad, lo persigue desesperadamente. Mientras tanto, Michael acecha a la estudiante de secundaria Laurie Strode y sus amigas. Lo que sigue es una noche de terror mientras Michael comienza una matanza metódica y Laurie debe luchar por su vida contra La Forma.",
     "image": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9
   },
   {
     "id": 81,
     "title": "The Notebook",
-    "description": "Una historia de amor inolvidable.",
+    "description": "En una residencia de ancianos, Duke lee en voz alta de un cuaderno desgastado a una mujer que sufre de demencia. La historia es sobre Noah Calhoun y Allie Hamilton, dos jóvenes de diferentes clases sociales que se enamoran apasionadamente durante el verano de 1940 en Carolina del Sur. Los padres ricos de Allie desaprueban a Noah, un trabajador de un aserradero, y la llevan a la ciudad cuando termina el verano. Los jóvenes amantes se separan y Noah escribe 365 cartas a Allie que nunca recibe. Años después, cuando Allie está comprometida con otro hombre, se reencuentran, desencadenando el amor que nunca olvidaron.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9
   },
   {
     "id": 82,
     "title": "Pride & Prejudice",
-    "description": "Romance y prejuicios en la Inglaterra clásica.",
+    "description": "En la Inglaterra rural de principios del siglo XIX, la familia Bennet tiene cinco hijas solteras y una madre obsesionada con casarlas bien. Cuando el rico soltero Charles Bingley y su orgulloso amigo Fitzwilliam Darcy llegan al vecindario, los destinos se entrelazan. Elizabeth Bennet, la segunda hija y la más inteligente, es inicialmente repelida por el arrogante Mr. Darcy. Sin embargo, a medida que las circunstancias los obligan a encontrarse repetidamente, ambos deben confrontar sus prejuicios y orgullo. A través de malentendidos, manipulaciones y revelaciones, Elizabeth y Darcy aprenden a ver más allá de las apariencias y descubren un amor verdadero e inesperado.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9
   },
   {
     "id": 83,
     "title": "The Fault in Our Stars",
-    "description": "Dos jóvenes se enamoran enfrentando enfermedad.",
+    "description": "Hazel Grace Lancaster es una adolescente de 16 años que vive con cáncer de tiroides que se ha extendido a sus pulmones. En un grupo de apoyo para jóvenes con cáncer, conoce a Augustus 'Gus' Waters, un chico encantador y optimista de 17 años que está en remisión de osteosarcoma. Comparten el amor por un libro llamado 'Una aflicción imperial' y Gus promete usar su deseo de 'Una Fundación Deseos' para llevar a Hazel a Ámsterdam a conocer al autor. A medida que su relación florece, ambos adolescentes deben navegar el amor, la mortalidad y el significado de vivir una vida llena de propósito ante la enfermedad terminal.",
     "image": "https://m.media-amazon.com/images/M/MV5BNTVkMTFiZWItOTFkOC00YTc3LWFhYzQtZTg3NzAxZjJlNTAyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.9
   },
   {
     "id": 84,
     "title": "The Conjuring",
-    "description": "Investigadores paranormales enfrentan un caso oscuro.",
+    "description": "En 1971, los investigadores paranormales Ed y Lorraine Warren son contactados por la familia Perron, que ha comenzado a experimentar actividad paranormal perturbadora en su casa de campo de Rhode Island. Lo que comienza como fenómenos extraños rápidamente escala a manifestaciones aterradoras y violentas. Lorraine, una clarividente sensible, percibe una presencia oscura y malévola. A medida que investigan la historia de la casa, descubren una historia de asesinatos y posesiones satánicas. Los Warren deben actuar rápido para realizar un exorcismo y salvar a la familia antes de que la entidad demoníaca reclame más víctimas, enfrentándose al caso más peligroso de sus carreras.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.8
   },
   {
     "id": 85,
     "title": "Annabelle",
-    "description": "Una muñeca desata terror.",
+    "description": "Un año antes de los eventos de The Conjuring, John Form regala a su esposa embarazada Mia una muñeca vintage rara que ella había estado buscando. Sin embargo, su alegría se convierte en terror cuando satanistas atacan su casa, derramando sangre sobre la muñeca. Lo que comienza como una serie de eventos inquietantes rápidamente se intensifica en manifestaciones aterradoras de una presencia demoníaca. La muñeca Annabelle se convierte en un conducto para una entidad malévola que amenaza tanto a Mia como a su recién nacida. Desesperada, Mia busca ayuda mientras trata de romper la maldición antes de perder a su familia ante la muñeca poseída.",
     "image": "https://play-lh.googleusercontent.com/31WrBGLE5f_G7nEnt0ZCe_jz4wJQdxQRy8Uedkbbp1rgWIjtYwViOP3moiNpZQgaG2rvHw=w240-h480-rw",
     "rating": 2.7
   },
   {
     "id": 86,
     "title": "The Nun",
-    "description": "Un demonio acecha en un convento.",
+    "description": "Rumania, 1952. Cuando una joven monja comete suicidio en una abadía remota, el Vaticano envía al padre Burke, un sacerdote con un pasado problemático en exorcismos, y a la hermana Irene, una novicia que aún no ha tomado sus votos finales, para investigar. A medida que investigan el convento sombrío, descubren sus secretos profanos y se enfrentan a una fuerza demoníaca malévola que toma la forma de una monja. Esta entidad, conocida como Valak, fue invocada por un culto en el pasado medieval de la abadía. Burke e Irene deben confrontar este demonio antes de que escape del convento y aterrorice al mundo.",
     "image": "https://i.ebayimg.com/images/g/PQIAAOSwc3RbJtFG/s-l1200.jpg",
     "rating": 2.6
   },
   {
     "id": 87,
     "title": "Venom",
-    "description": "Un periodista se fusiona con un simbionte.",
+    "description": "Eddie Brock es un periodista de investigación cuya carrera y relación personal se desmoronan cuando intenta exponer las prácticas poco éticas del genio científico Carlton Drake y su corporación, Life Foundation. Seis meses después, Eddie es contactado por una de las científicas de Drake, quien revela que la fundación está haciendo experimentos mortales fusionando humanos con simbiontes alienígenas traídos del espacio. Durante su investigación en las instalaciones de Drake, Eddie es infectado por uno de estos simbiontes llamado Venom. Ahora compartiendo un cuerpo, Eddie y Venom deben aprender a coexistir mientras Drake los persigue para recuperar el simbionte.",
     "image": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.3
   },
   {
     "id": 88,
     "title": "Aquaman",
-    "description": "El heredero de Atlantis reclama su trono.",
+    "description": "Arthur Curry es un mestizo: hijo de un guardián de faro humano y la reina de Atlantis. Criado en tierra, Arthur ha vivido toda su vida entre dos mundos, nunca completamente aceptado por ninguno. Cuando su ambicioso medio hermano Orm, el actual rey de Atlantis, planea unir los siete reinos submarinos para declarar la guerra contra el mundo de superficie, Arthur debe aceptar su destino. Con la ayuda de la princesa guerrera Mera, Arthur debe recuperar el legendario Tridente de Atlan, probar que es el verdadero heredero de Atlantis y convertirse en Aquaman, el único que puede unir el mundo submarino y prevenir una guerra devastadora.",
     "image": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.4
   },
   {
     "id": 89,
     "title": "Wonder Woman",
-    "description": "Una amazona lucha en la Primera Guerra Mundial.",
+    "description": "Diana, princesa de las Amazonas, ha sido entrenada desde niña para ser una guerrera invencible en la isla paradisíaca de Themyscira, aislada del resto del mundo. Cuando el piloto estadounidense Steve Trevor se estrella en la isla y habla de un conflicto masivo en el mundo exterior (la Primera Guerra Mundial), Diana cree que es obra de Ares, el dios de la guerra. A pesar de las advertencias de su madre, Diana deja Themyscira con Steve para detener Ares y poner fin a la guerra. En Londres y luego en el frente de batalla, Diana debe aprender sobre la humanidad, confrontar la complejidad del bien y el mal, y descubrir su verdadero poder y destino.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.6
   },
   {
     "id": 90,
     "title": "The Flash",
-    "description": "Un héroe viaja a través del tiempo.",
+    "description": "Barry Allen es el hombre más rápido vivo, capaz de moverse a velocidades imposibles como el superhéroe conocido como Flash. Atormentado por la muerte de su madre en la infancia y la prisión injusta de su padre, Barry usa sus poderes para viajar atrás en el tiempo y prevenir el asesinato de su madre. Sin embargo, su acción aparentemente heroica crea una realidad alternativa con consecuencias catastróficas: sin su Flash en el presente, el General Zod regresa para conquistar la Tierra y no hay Superman para detenerlo. Barry debe unirse con la versión joven de sí mismo y el Batman de esta realidad alternativa para salvar el mundo y restaurar la línea temporal.",
     "image": "https://static.posters.cz/image/1300/183190.jpg",
     "rating": 3.4
   },
   {
     "id": 91,
     "title": "Mission: Impossible",
-    "description": "Un agente realiza misiones peligrosas.",
+    "description": "Ethan Hunt es un agente élite de la Fuerza de Misión Imposible (IMF) que se especializa en operaciones encubiertas de alto riesgo. Durante una misión en Praga para recuperar una lista de agentes encubiertos, su equipo es traicionado y asesinado, dejando a Ethan como el único superviviente. Sospechoso de ser el traidor, Ethan es separado de la IMF y debe operar desde las sombras para descubrir al verdadero topo. Con la ayuda de dos agentes desacreditados, Ethan planea un elaborado robo para robar la lista real de agentes y usar esto como cebo para exponer al traidor, todo mientras evade tanto a sus antiguos colegas como a los asesinos.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.6
   },
   {
     "id": 92,
     "title": "Top Gun",
-    "description": "Pilotos compiten en la élite aérea.",
+    "description": "Pete 'Maverick' Mitchell es un talentoso pero temerario joven piloto de la Marina que es enviado a la Escuela de Armas de Combate de Pilotos de la Marina de los Estados Unidos, conocida como TOPGUN. Allí, los mejores pilotos del país compiten por el codiciado trofeo de mejor piloto. Maverick debe enfrentar a pilotos igualmente talentosos mientras lidia con la muerte de su padre, también piloto, años atrás en circunstancias misteriosas. Su competencia con el arrogante piloto Ice Man se intensifica, mientras desarrolla un romance con su instructora de vuelo Charlotte. Maverick debe probar que es el mejor mientras confronta sus propios demonios y aprende el valor del trabajo en equipo.",
     "image": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.5
   },
   {
     "id": 93,
     "title": "Pirates of the Caribbean",
-    "description": "Piratas buscan tesoros malditos.",
+    "description": "En el Caribe del siglo XVIII, la hija del gobernador Elizabeth Swann es secuestrada por el capitán pirata Barbossa y su tripulación a bordo del Perla Negra. Will Turner, un herrero enamorado de Elizabeth, se une a regañadientes con el excéntrico capitán Jack Sparrow, antiguo comandante del Perla Negra, para rescatarla. Lo que no saben es que Barbossa y su tripulación sufren de una antigua maldición azteca: están condenados a existir como muertos vivientes, ni vivos ni muertos, hasta que rompan el hechizo. El rescate se convierte en una batalla épica contra piratas inmortales, con Jack buscando también recuperar su amado barco.",
     "image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 94,
     "title": "Transformers",
-    "description": "Robots alienígenas luchan en la Tierra.",
+    "description": "Dos razas de robots alienígenas, los heroicos Autobots y los malvados Decepticons, traen su guerra centenaria a la Tierra en busca de una fuente de energía definitiva: el AllSpark. El joven Sam Witwicky compra sin saberlo un auto que resulta ser Bumblebee, un Autobot enviado para protegerlo porque Sam tiene el conocimiento de la ubicación del AllSpark grabado en las gafas de su bisabuelo. Mientras los Autobots liderados por Optimus Prime llegan para ayudar, los Decepticons bajo el mando del despiadado Megatron buscan el AllSpark para conquistar el universo. Sam y el ejército estadounidense deben aliarse con los Autobots en una batalla épica por el destino del planeta.",
     "image": "https://m.media-amazon.com/images/I/51m2UmuaxuL.jpg",
     "rating": 3.5
   },
   {
     "id": 95,
     "title": "Fast & Furious",
-    "description": "Carreras ilegales y acción desenfrenada.",
+    "description": "Brian O'Conner es un oficial de policía encubierto asignado para infiltrarse en el mundo de las carreras callejeras ilegales de Los Ángeles para investigar una serie de robos de camiones. Se integra en el equipo liderado por Dominic Toretto, un carismático corredor que podría estar detrás de los robos. A medida que Brian gana la confianza de Dom y su hermana Mia, desarrolla respeto y amistad genuinos con el equipo, especialmente con Dom. Cuando Brian descubre la verdad sobre los robos, se enfrenta a un dilema: cumplir con su deber como policía o proteger a las personas que se han convertido en su familia, desencadenando persecuciones de autos de alta velocidad.",
     "image": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.2
   },
   {
     "id": 96,
     "title": "John Wick",
-    "description": "Un exasesino busca venganza implacable.",
+    "description": "John Wick es un asesino a sueldo retirado que intentaba vivir una vida pacífica después de dejar el submundo criminal para casarse. Cuando su esposa muere de una enfermedad, John recibe un último regalo de ella: un cachorro llamado Daisy para ayudarlo con el duelo. Días después, Iosef Tarasov, el hijo imprudente de un jefe de la mafia rusa, invade la casa de John, lo golpea, roba su auto clásico Mustang y mata a Daisy. Lo que Iosef no sabe es que John es 'El Cuco', el asesino más temido del submundo. John regresa a su antigua vida en una violenta campaña de venganza contra toda la organización criminal rusa.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg",
     "rating": 3.7
   },
   {
     "id": 97,
     "title": "The Bourne Identity",
-    "description": "Un hombre amnésico descubre que es un agente.",
+    "description": "Un hombre es encontrado flotando en el mar Mediterráneo con dos disparos en la espalda, sin memoria de quién es o cómo llegó allí. Lo único que tiene son las coordenadas de un banco suizo implantadas quirúrgicamente en su cadera. En el banco, descubre múltiples pasaportes con diferentes nombres, grandes cantidades de dinero y habilidades extraordinarias en combate y lenguajes que no recuerda haber aprendido. Adoptando el nombre Jason Bourne de uno de los pasaportes, debe descubrir su verdadera identidad mientras es perseguido por asesinos de la CIA que lo quieren muerto. Con la ayuda de Marie, una viajera alemana, Bourne atraviesa Europa buscando respuestas sobre su pasado.",
     "image": "https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 98,
     "title": "Casino Royale",
-    "description": "James Bond enfrenta una misión crucial.",
+    "description": "James Bond acaba de obtener su estatus de '00', lo que le otorga licencia para matar. En su primera misión importante como Agente 007, debe derrotar a Le Chiffre, un banquero de terroristas, en un juego de póker de altas apuestas en el Casino Royale en Montenegro. Si Bond gana, Le Chiffre no podrá pagar a sus clientes y se verá obligado a cooperar con los británicos. Durante la misión, Bond se enamora de Vesper Lynd, la bella agente del Tesoro asignada para supervisar el dinero del juego. Sin embargo, no todo es lo que parece, y Bond descubrirá traiciones que lo marcarán profundamente y definirán su carácter como el 007 más famoso.",
     "image": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   },
   {
     "id": 99,
     "title": "The Hunger Games: Catching Fire",
-    "description": "Katniss regresa a la arena.",
+    "description": "Después de ganar los 74º Juegos del Hambre, Katniss Everdeen y Peeta Mellark regresan al Distrito 12 como héroes. Sin embargo, su victoria mediante una estrategia de doble suicidio ha sido vista como un acto de desafío por el Capitolio, inspirando levantamientos rebeldes en los distritos. Durante la Gira de la Victoria, el Presidente Snow le advierte a Katniss que debe convencer a Panem de que sus acciones fueron por amor, no rebelión. Para aplastar la creciente rebelión, Snow anuncia un Vasallaje de los 25, un evento especial donde Katniss y Peeta deben regresar a la arena. Ahora deben sobrevivir nuevamente mientras el fuego de la revolución se extiende por Panem.",
     "image": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_FMjpg_UX1000_.jpg",
     "rating": 3.8
   },
   {
     "id": 100,
     "title": "Dune",
-    "description": "Un joven noble enfrenta su destino en Arrakis.",
+    "description": "En un futuro lejano, el joven noble Paul Atreides debe viajar al planeta desértico más peligroso del universo conocido: Arrakis, también llamado Dune. Este es el único planeta donde se encuentra la 'especia', la sustancia más valiosa de la galaxia que extiende la vida y mejora la conciencia. Cuando su familia es traicionada y masacrada por sus enemigos, los Harkonnen, Paul huye al desierto donde los nativos Fremen lo acogen. Los Fremen creen que Paul puede ser su mesías profetizado. Con la ayuda de la Dama Jessica, su madre y miembro de la hermandad Bene Gesserit, Paul debe abrazar su destino y liderar una revolución para recuperar Arrakis y cumplir su papel en el futuro de la humanidad.",
     "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
     "rating": 4.0
   }
