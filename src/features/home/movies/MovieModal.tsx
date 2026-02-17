@@ -89,7 +89,6 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
 
         <div className="p-6">
           <div className="flex flex-col md:flex-row gap-6">
-            {/* Imagen */}
             <div className="md:w-1/3">
               {movie.image && movie.image !== "N/A" ? (
                 <img
@@ -114,7 +113,9 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
                   {Array.from({ length: fullStars }).map((_, i) => (
                     <span key={`full-${i}`} className="text-red-600 text-2xl">★</span>
                   ))}
-                  {hasHalfStar && <span className="text-red-600 text-2xl">☆</span>}
+                  {hasHalfStar && (
+                    <span className="text-red-600 text-2xl">☆</span>
+                  )}
                   {Array.from({ length: emptyStars }).map((_, i) => (
                     <span key={`empty-${i}`} className="text-gray-500 text-2xl">★</span>
                   ))}
@@ -145,8 +146,8 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
                   {reviews.length}
                 </span>
               )}
-
             </h3>
+
             <div className="bg-gray-800 rounded-xl p-5 mb-8 border border-gray-700 shadow-inner">
               <p className="text-gray-400 text-sm mb-4 font-medium uppercase tracking-wide">
                 Deja tu reseña
@@ -183,7 +184,7 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
               </div>
 
               <textarea
-                placeholder="¿Qué te pareció esta película? Cuéntanos sin spoilers... o con spoilers, tú decides 🎬"
+                placeholder="Cuéntanos qué te pareció..."
                 value={commentInput}
                 onChange={(e) => setCommentInput(e.target.value)}
                 rows={4}
@@ -209,12 +210,11 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
               )}
             </div>
 
-            
             {reviews.length === 0 ? (
               <div className="text-center py-10 text-gray-500">
                 <p className="text-4xl mb-3">🎥</p>
-                <p className="text-lg"ro en dejar una res>Sé el primeeña</p>
-                <p className="text-sm mt-1">Tu opinión puede ayudar a otros cinéfilos</p>
+                <p className="text-lg">Sé el primero en dejar una reseña</p>
+                <p className="text-sm mt-1">Tu opinión puede ayudar a otros.</p>
               </div>
             ) : (
               <div className="space-y-4">
@@ -237,7 +237,9 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
                         {Array.from({ length: 5 }).map((_, i) => (
                           <span
                             key={i}
-                            className={`text-base ${i < review.rating ? "text-red-500" : "text-gray-600"}`}
+                            className={`text-base ${
+                              i < review.rating ? "text-red-500" : "text-gray-600"
+                            }`}
                           >
                             ★
                           </span>
@@ -249,7 +251,6 @@ export function MovieModal({ movie, onClose }: MovieModalProps) {
                       {review.comment}
                     </p>
 
-                  
                     <div className="pl-11">
                       <button
                         onClick={() => handleLike(review.id)}
